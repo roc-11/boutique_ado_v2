@@ -28,7 +28,8 @@ SECRET_KEY = 'django-insecure--v1=9xd8*7ch!b&i2yjto0i@z3ed#pn2qix)rqxkh(7gcukd8_
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-roc11-boutiqueadov2-1bawa3oaite.ws-eu110.gitpod.io', 
-                    '8000-roc11-boutiqueadov2-1bawa3oaite.ws-eu112.gitpod.io']
+                    '8000-roc11-boutiqueadov2-1bawa3oaite.ws-eu112.gitpod.io',
+                    '8000-roc11-boutiqueadov2-1bawa3oaite.ws-eu111.gitpod.io']
 
 
 # Application definition
